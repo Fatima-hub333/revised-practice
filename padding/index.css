@@ -5,9 +5,20 @@
   margin-top: 50px;
   margin-left: auto;
   margin-right: auto;
+  border: 4px solid #222222;
+  border-radius: 20px;
   /* padding: 20px; */
   padding-top: 100px;
   padding-right: 100px;
   padding-bottom: 0;
   padding-left: 0;
+}
+
+button {
+  border: 1px solid #cfd9de;
+  border-radius: 20px;
+  background-color: white;
+  color: #0f1419;
+  font-weight: bold;
+  padding: 10px 20px;
 }
