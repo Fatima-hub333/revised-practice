@@ -1,4 +1,4 @@
-/* body {
+body {
   font-family: 'Orbitron', sans-serif;
   color: white;
   background-image: url("universe.jpg");
@@ -13,23 +13,12 @@
   border: none;
   font-family: inherit;
   font-weight: bold;
-} */
-
-body {
-  background-color: whitesmoke;
-  color: whitesmoke;
-  font-family: 'Rammetto One', cursive;
 }
 
-.ad {
-  background-color: #35654d;
-  border: 5px solid #A3BC71;
-  text-align: center;
+.underline {
+  border-bottom: 4px solid white;
 }
 
-.cta {
-  color: red;
-  border: 2px solid #A3BC71;
-  padding: 5px 10px;
-  background-color: #8F4737;
+#main-logo {
+  width: 200px;
 }
