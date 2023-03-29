@@ -1,0 +1,35 @@
+/* body {
+  font-family: 'Orbitron', sans-serif;
+  color: white;
+  background-image: url("universe.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+
+.btn {
+  padding: 6px 12px;
+  background-color: white;
+  border: none;
+  font-family: inherit;
+  font-weight: bold;
+} */
+
+body {
+  background-color: whitesmoke;
+  color: whitesmoke;
+  font-family: 'Rammetto One', cursive;
+}
+
+.ad {
+  background-color: #35654d;
+  border: 5px solid #A3BC71;
+  text-align: center;
+}
+
+.cta {
+  color: red;
+  border: 2px solid #A3BC71;
+  padding: 5px 10px;
+  background-color: #8F4737;
+}
