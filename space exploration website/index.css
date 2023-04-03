@@ -1,10 +1,15 @@
 body {
+  margin: 0;
   font-family: 'Orbitron', sans-serif;
-  color: white;
-  background-image: url("universe.jpg");
-  background-size: cover;
+  color: #82a5ca;
   background-repeat: no-repeat;
   text-align: center;
+}
+
+#hero {
+  background-image: url("universe.gif");
+  background-size: cover;
+  padding: 10px 0 40px 0;
 }
 
 .btn {
@@ -13,6 +18,8 @@ body {
   border: none;
   font-family: inherit;
   font-weight: bold;
+  color: #82a5ca;
+  font-weight: 800;
 }
 
 .underline {
@@ -20,5 +27,5 @@ body {
 }
 
 #main-logo {
-  width: 200px;
+  width: 100px;
 }
