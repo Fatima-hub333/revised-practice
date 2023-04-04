@@ -2,6 +2,9 @@ body {
   text-align: center;
   background-color: #a2d2ff;
   color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 #my-img {
@@ -10,8 +13,10 @@ body {
   border: 6px solid #EFB0C9;
 }
 
-h1,
-h2,
-h4 {
+h1, h2, h3, h4, p {
   text-shadow: 0px 0px 1px black;;
+}
+
+h2, h4 {
+  background-color: #EFB0C9;
 }
