@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  background-color: #a2d2ff;
+  color: #ffffff;
+}
+
+#my-img {
+  width: 150px;
+  border-radius: 50%;
+  border: 6px solid #EFB0C9;
+}
+
+h1,
+h2,
+h4 {
+  text-shadow: 0px 0px 1px black;;
+}
