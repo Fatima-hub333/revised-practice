@@ -2,9 +2,6 @@ body {
   text-align: center;
   background-color: #a2d2ff;
   color: #ffffff;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
 }
 
 #my-img {
@@ -19,4 +16,10 @@ h1, h2, h3, h4, p {
 
 h2, h4 {
   background-color: #EFB0C9;
+}
+
+#header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
