@@ -1,0 +1,52 @@
+body {
+  text-align: center;
+  background-color: #a2d2ff;
+  color: #ffffff;
+}
+
+#my-img {
+  width: 150px;
+  border-radius: 50%;
+  border: 6px solid #Efb0c9;
+}
+
+h1, h2, h3, h4, p {
+  text-shadow: 0px 0px 1px black;
+}
+
+#bday-age {
+  background-color: #EFb0c9;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin: 5px 0 10px 0;
+}
+
+#bday-date {
+  background-color: #EFb0c9;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin: 0;
+}
+
+#header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+img {
+  width: 30%;
+  display: block;
+  margin: 100px auto 20px;
+  min-width: 272px;
+}
+
+input {
+  box-sizing: border-box;
+  display: block;
+  border-radius: 24px;
+  border: 1px solid rgb(223, 225,229);
+  height: 44px;
+  margin: 0 auto 29px;
+  max-width: 500px;
+}
