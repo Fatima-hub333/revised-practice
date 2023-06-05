@@ -1,0 +1,66 @@
+/* .main {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.logo-image {
+  display: block;
+  width: 300px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.search-input {
+  display: block;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 24px;
+  padding: 10px 30px;
+  border: 1px solid #dfe1e5;
+  border-radius: 24px;
+}
+
+.btn-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  margin-left: 4px;
+  margin-right: 4px;
+  margin-top: 30px;
+  font-weight: bold;
+  padding: 10px 16px;
+  border: none;
+  background-color: #dfe1e5;
+  border-radius: 4px;
+  font-size: 14px;
+} */
+
+/* ------Business Card CSS ----- */
+body {
+  margin: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.avatar {
+  width: 150px;
+}
+
+.card {
+  width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  color: #2b2839;
+  background-color: #ddebf8;
+  border-bottom: 6px solid #d8ced8;
+}
+
+.border-blue {
+  border: 1px solid blue;
+}
